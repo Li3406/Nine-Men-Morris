@@ -9,7 +9,7 @@ Nine Men's Morris is a strategy board game for two players dating back to the Ro
 * Player vs Computer: Allows the player to play against the computer.
 
 ## Technologies Used
-Programming Language: Java
-Libraries/Frameworks: JFame
-Development Tools: Git, IntelliJ IDEA
+* Programming Language: Java
+* Libraries/Frameworks: JFame
+* Development Tools: Git, IntelliJ IDEA
 
